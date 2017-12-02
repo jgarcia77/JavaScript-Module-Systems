@@ -8,5 +8,7 @@
     "author": "Josue Garcia",
     "license": "ISC",
     "dependencies": {},
-    "devDependencies": {}
+    "devDependencies": {
+        "webpack": "^3.9.1"
+    }
 }
