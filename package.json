@@ -7,6 +7,8 @@
     "keywords": [],
     "author": "Josue Garcia",
     "license": "ISC",
-    "dependencies": {},
+    "dependencies": {
+        "dojo": "^1.13.0"
+    },
     "devDependencies": {}
 }
